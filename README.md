@@ -4,9 +4,10 @@
   
   ![Coding Animation](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
   
-</div>
-<img src="https://github.com/Nada-ember/Nada-ember/blob/main/your-animated-file.gif" width="500" />
+  <!-- Nada's Animated Desk Banner (to be added below once ready) -->
+  <img src="https://github.com/Nada-ember/Nada-ember/blob/main/nada-desk-animation.gif" alt="Nada's Desk Animation" width="600" />
 
+</div>
 
 <div align="center">
   
